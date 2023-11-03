@@ -7,7 +7,7 @@ class Header extends Component {
       <div className='header'>
         <nav className='navbar navbar-expand-lg navbar-light'>
           <a className='navbar-brand' href='#'>
-            Pathfinding Visualizer
+            Shortest Path Finder
           </a>
           <button
             className='navbar-toggler'
